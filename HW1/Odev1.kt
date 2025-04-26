@@ -51,3 +51,56 @@ val takipKodu = "TR1234567890"
 val kuponSuresi = 30
 val kuponKodu = "INDIRIM30"
 val faturaAdresi = "İstanbul, Fatih, 34710"
+
+fun main() {
+    // Çıktılar
+    println("Şehir: $sehir")
+    println("Ülke: $ulke")
+    println("Telefon: $telefon")
+    println("Posta Kodu: $postaKodu")
+    println("Email: $email")
+    println("Meslek: $meslek")
+    println("Stok Miktarı: $stokMiktari")
+    println("Müşteri Adı: $musteriAdi")
+    println("Bakiye: $bakiye")
+    println("Doğum Günü: $dogumGunu")
+    println("Maaş: $maas")
+    println("Medeni Durum: $medeniDurum")
+    println("Ürün Yorum: $urunYorum")
+
+    println("Ödeme Tarihi: $odemeTarihi")
+    println("Ödeme: $odeme")
+    println("Sipariş Adeti: $siparisAdeti")
+    println("Araba Modeli: $arabaModeli")
+    println("Kitap Adı: $kitapAdi")
+    println("Yayınlama Tarihi: $yayinlamaTarihi")
+    println("İndirim Miktarı: $indirimMiktari")
+    println("Oda Sayısı: $odaSayisi")
+    println("Enlem: $enlem")
+    println("Boylam: $boylam")
+    println("Ürün Adı: $urunAdi")
+    println("Yemek Fiyatı: $yemekFiyati")
+
+    println("Marka: $marka")
+    println("Müzik Adı: $muzikAdi")
+    println("Video Süresi: $videoSuresi saniye")
+    println("Ürün Puanı: $urunPuani")
+    println("Resim Adı: $resimAdi")
+    println("Dosya Formatı: $dosyaFormati")
+    println("Renk: $renk")
+    println("Renk Kodu: $renkKodu")
+    println("Telefon Modeli: $telefonModeli")
+    println("Ekran Boyutu: $ekranBoyutu inç")
+    println("Ağırlık: $agirlik gram")
+
+    println("Ulusal Gün: $ulusalGun")
+    println("Tatil Günü: $tatilGunu")
+    println("Rezervasyon Tarihi: $rezervasyonTarihi")
+    println("Sokak Adı: $sokakAdi")
+    println("Otobüs Hattı: $otobusHatti")
+    println("Kalan Dakika: $kalanDakika")
+    println("Takip Kodu: $takipKodu")
+    println("Kupon Süresi: $kuponSuresi gün")
+    println("Kupon Kodu: $kuponKodu")
+    println("Fatura Adresi: $faturaAdresi")
+}
